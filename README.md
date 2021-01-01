@@ -20,5 +20,5 @@ Download this file. >><<
 |  Css      | page.css |
 
 **Images of Website**
-![pageimage1](/images/Page.png)
-![pageimage2](/images/Page2.png)
+![pageimage1](/images/Page.PNG)
+![pageimage2](/images/Page2.PNG)
