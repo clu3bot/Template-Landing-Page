@@ -18,3 +18,6 @@ Download this file. >><<
 | Html       | page.html |
 | Html | about.html |
 |  Css      | page.css |
+
+**Images of Website**
+![](/images/page.png)
