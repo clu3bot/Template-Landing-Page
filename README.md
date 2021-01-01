@@ -1,7 +1,7 @@
 # Template-Landing-Page
 Open Source template landing page created by clu3bot. 100% mobile configured. (Please let me know about bugs)
 
-| Includes |
+| Includes ||
 |------------|----|
 | Mobile Configured ||
 | Minimal Animations ||
@@ -12,7 +12,8 @@ Open Source template landing page created by clu3bot. 100% mobile configured. (P
 # A landing page template made by clu3bot.
 Download this file. >><<
 
-| Files |  Type |
+| Files Used |  Type |
 |--------------------|-----|
-| Html       | index.html |
-|  Css      | style.css |
+| Html       | page.html |
+| Html | about.html |
+|  Css      | page.css |
